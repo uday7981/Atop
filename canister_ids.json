@@ -1,0 +1,8 @@
+{
+  "multichain_backend": {
+    "ic": "uqxxh-6iaaa-aaaak-qci3a-cai"
+  },
+  "polygon_backend": {
+    "ic": "uxwrt-tqaaa-aaaak-qci3q-cai"
+  }
+}
